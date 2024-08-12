@@ -46,7 +46,7 @@ function Home() {
           </div>
         </div>
         <div className="mt-20 flex justify-center">
-          <a href="/players" className="relative block rounded-3xl overflow-hidden shadow-lg bg-cover bg-center"
+          <a href="#/players" className="relative block rounded-3xl overflow-hidden shadow-lg bg-cover bg-center"
              style={{ width: '1000px', height: '300px', backgroundImage: `url(${image})` }}>
             <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
               <span className="text-white font-semibold text-4xl">Players</span>
