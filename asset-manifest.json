@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/man-city-website/static/css/main.e0b77977.css",
+    "main.js": "/man-city-website/static/js/main.496412ea.js",
+    "static/media/ucl_image.jpg": "/man-city-website/static/media/ucl_image.c365017405df6a5a6815.jpg",
+    "static/media/man-city-logo.png": "/man-city-website/static/media/man-city-logo.eb2db2edeff2f6f011fb.png",
+    "static/media/montserrat-latin-400-normal.woff": "/man-city-website/static/media/montserrat-latin-400-normal.b48c3d9a8c0a49c1c7b4.woff",
+    "static/media/montserrat-latin-ext-400-normal.woff": "/man-city-website/static/media/montserrat-latin-ext-400-normal.cf42d14e809c6fdc0929.woff",
+    "static/media/montserrat-latin-400-normal.woff2": "/man-city-website/static/media/montserrat-latin-400-normal.9ef09180105730e3cb92.woff2",
+    "static/media/montserrat-latin-ext-400-normal.woff2": "/man-city-website/static/media/montserrat-latin-ext-400-normal.83d2d15dd908a3cf998f.woff2",
+    "static/media/montserrat-cyrillic-ext-400-normal.woff": "/man-city-website/static/media/montserrat-cyrillic-ext-400-normal.183f43730b586802d1a0.woff",
+    "static/media/montserrat-cyrillic-400-normal.woff": "/man-city-website/static/media/montserrat-cyrillic-400-normal.439a7e91c905d22b3543.woff",
+    "static/media/montserrat-cyrillic-ext-400-normal.woff2": "/man-city-website/static/media/montserrat-cyrillic-ext-400-normal.32618c7b62b4ab3c0aff.woff2",
+    "static/media/montserrat-cyrillic-400-normal.woff2": "/man-city-website/static/media/montserrat-cyrillic-400-normal.4f7a9c3142f9879900c9.woff2",
+    "static/media/montserrat-vietnamese-400-normal.woff": "/man-city-website/static/media/montserrat-vietnamese-400-normal.44e6450ead6330cb0b77.woff",
+    "static/media/montserrat-vietnamese-400-normal.woff2": "/man-city-website/static/media/montserrat-vietnamese-400-normal.176348415471f3e062e6.woff2",
+    "static/media/slick.svg": "/man-city-website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/man-city-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/man-city-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/man-city-website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/man-city-website/index.html",
+    "main.e0b77977.css.map": "/man-city-website/static/css/main.e0b77977.css.map",
+    "main.496412ea.js.map": "/man-city-website/static/js/main.496412ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0b77977.css",
+    "static/js/main.496412ea.js"
+  ]
+}
