@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/man-city-website/static/css/main.e0b77977.css",
-    "main.js": "/man-city-website/static/js/main.496412ea.js",
+    "main.js": "/man-city-website/static/js/main.63f1089d.js",
     "static/media/ucl_image.jpg": "/man-city-website/static/media/ucl_image.c365017405df6a5a6815.jpg",
     "static/media/man-city-logo.png": "/man-city-website/static/media/man-city-logo.eb2db2edeff2f6f011fb.png",
     "static/media/montserrat-latin-400-normal.woff": "/man-city-website/static/media/montserrat-latin-400-normal.b48c3d9a8c0a49c1c7b4.woff",
@@ -20,10 +20,10 @@
     "static/media/slick.woff": "/man-city-website/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/man-city-website/index.html",
     "main.e0b77977.css.map": "/man-city-website/static/css/main.e0b77977.css.map",
-    "main.496412ea.js.map": "/man-city-website/static/js/main.496412ea.js.map"
+    "main.63f1089d.js.map": "/man-city-website/static/js/main.63f1089d.js.map"
   },
   "entrypoints": [
     "static/css/main.e0b77977.css",
-    "static/js/main.496412ea.js"
+    "static/js/main.63f1089d.js"
   ]
 }
