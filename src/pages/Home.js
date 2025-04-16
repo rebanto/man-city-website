@@ -33,7 +33,7 @@ function Home() {
           <div className="ml-8 flex-grow flex flex-col">
             <div className="flex-grow">
               <h2 className="text-dark_blue text-2xl font-bold">SAVINHO | In his own words...</h2>
-              <p className="text-gray-700 mt-4">Visit the Man City YouTube channel for more videos.</p>
+              <p className="text-gray-700 mt-4">Visit the Man City YouTube channel for more videos!</p>
             </div>
             <div className="mt-4 self-center">
               <a href="https://www.youtube.com/@mancity/featured" 
